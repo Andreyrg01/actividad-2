@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "punto.4", "punto.4.csproj", "{033A8A17-81B9-4595-8B99-D71A2D9265D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{033A8A17-81B9-4595-8B99-D71A2D9265D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{033A8A17-81B9-4595-8B99-D71A2D9265D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{033A8A17-81B9-4595-8B99-D71A2D9265D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{033A8A17-81B9-4595-8B99-D71A2D9265D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBBAA9E1-EF5E-4621-ACB2-1AE5269933BC}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+﻿int c1, c2, c3, c4, c5;
+Console.WriteLine("Primera Nota");
+c1 = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Segunda Nota");
+c2 = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Tercera Nota");
+c3 = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Cuarta Nota");
+c4 = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Quinta Nota");
+c5 = Convert.ToInt32(Console.ReadLine());
+Tc = c1 + c2 + c3 + c4 + c5;
+P = Tc / 5;
+Console.WriteLine("El total de notas es {0}", Tc);
+Console.WriteLine("El promedio de las calificacions es {0}", P);
+Console.ReadKey();

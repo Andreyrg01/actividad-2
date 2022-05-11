@@ -1,0 +1,5 @@
+C:\Users\USUARIO\OneDrive\Desktop\Nueva carpeta\actividad punto 1\actividad2,2\obj\Release\net6.0\actividad2,2.csproj.AssemblyReference.cache
+C:\Users\USUARIO\OneDrive\Desktop\Nueva carpeta\actividad punto 1\actividad2,2\obj\Release\net6.0\actividad2,2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\OneDrive\Desktop\Nueva carpeta\actividad punto 1\actividad2,2\obj\Release\net6.0\actividad2,2.AssemblyInfoInputs.cache
+C:\Users\USUARIO\OneDrive\Desktop\Nueva carpeta\actividad punto 1\actividad2,2\obj\Release\net6.0\actividad2,2.AssemblyInfo.cs
+C:\Users\USUARIO\OneDrive\Desktop\Nueva carpeta\actividad punto 1\actividad2,2\obj\Release\net6.0\actividad2,2.csproj.CoreCompileInputs.cache
